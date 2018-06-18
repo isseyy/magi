@@ -2,7 +2,7 @@
 Data storage management system - Static website
 
 
-MAGI System
+#MAGI System
 Data storage management system 
 ~PROTOTYPE VERSION ONLY
 
